@@ -22,7 +22,8 @@
   		<hr>
   		<div style="text-align: center;">
 	  		<span>
-	  			傳說中有個祕寶，位於異次元的夾縫，四個寶藏獵人相信了這個傳聞，穿過了世界中心的次元門，開始了他們的異世界之旅。
+	  			傳說中有個祕寶，位於異次元的夾縫，四個寶藏獵人相信了這個傳聞，穿過了世界中心的次元門，開始了他們的異世界之旅。<br>
+	  			從上到下從左到右分別是:巫師、MinityGrey、大叔(看起來很快就會領便當)、UnityChan
 	  		</span>
 	  	</div>
 	  	<div align="center">
@@ -51,22 +52,20 @@
   		<h2 align="center" id = "DemoVideo">Demo Video</h2>
   		<hr>
 		<div align="center">
-			<iframe class="video" src="http://www.youtube.com/embed/DhSMusUanQU" frameborder="0" allowfullscreen></iframe>
-			<iframe class="video" src="http://www.youtube.com/embed/w13KIiKC1mk" frameborder="0" allowfullscreen></iframe>
-			<iframe class="video" src="http://www.youtube.com/embed/q_25fnDk7GA" frameborder="0" allowfullscreen></iframe>
+			<iframe class="video" src="http://www.youtube.com/embed/j1AAl10waNg" frameborder="0" allowfullscreen></iframe>
+			<iframe class="video" src="http://www.youtube.com/embed/j1AAl10waNg" frameborder="0" allowfullscreen></iframe>
+			<iframe class="video" src="http://www.youtube.com/embed/j1AAl10waNg" frameborder="0" allowfullscreen></iframe>
 		</div>
   		<h2 align="center"  id = "About">About</h2>
   		  	<hr>
   		  	<div style = "text-align: center;">
+	  			<span>
 	  				Authors:NTUST-CSIE<br>
 	  				Game Engine:Unity<br>
-	  				Other Softwares:<br>
-	  				Maya<br>
-	  				3DS Max<br>
-	  				Blender<br>
-	  				PhotoShop<br>
-	  				Gimp
-	  			
+	  				<del>最下面那些人都是NPC :p</del>
+	  				<h6 style="margin-top:0;">(而且阿姆姆根本就不是NPC)<br>
+	  				悟空假裝舉直升機，但其實是要集元氣彈丟鋼鐵人(這個要玩過遊戲才知道為什麼)</h6>
+	  			</span>
 	  		</div>
   	</div>
 </body>
