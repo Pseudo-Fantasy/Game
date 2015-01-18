@@ -10,45 +10,23 @@ body{
   top : 50px;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
-h1{
-  text-align: center;
-}
-p {
-  font-size: 28px;
-}
 
-li{
-	display: inline-block;
-	padding: 0px 10px 0px 10px;
-}
-
-a{
-	color: white;
-  text-decoration: none;
-}
-
-a:hover{
-  color: red;
-  text-decoration: none;
-}
-
-h1{
-	font-size: 100px
+.title-img img{
+  display: inline-block;
 }
 
 .intro{
   height: 100%;
   width : 100%;
-/*  text-align: center;*/
-}
-
-.link{
-  text-align: center;
 }
 
 button{
   height: 50px;
   width : 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   border-radius: 10px;
   color: orange;
   background-color: black;
@@ -78,21 +56,28 @@ button:hover{
 }
 
 span{
-  text-align: center;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-size: 20px;
 }
 
-img{
+.img{
   display: inline-block;
   width  : 320px;
   height : 180px;
   opacity: 0.1;
   border-radius: 20px;
   transition: opacity 0.3s linear;
+  z-index: 1;
+  margin-right: auto;
+  margin-left: auto;
 }
-img:hover{
+.img:hover{
   opacity: 1;
   transition: opacity 0.3s linear;
   border-radius: 20px;
+  z-index: 1;
+}
+.img:active{
+  transform:scale(2);
+  transition: transform 0.2s linear;
 }
