@@ -79,4 +79,5 @@ span{
 }
 .img:active{
   transform:scale(2);
+  transition: transform 0.2s linear;
 }
