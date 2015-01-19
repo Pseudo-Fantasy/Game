@@ -1,4 +1,4 @@
-@media screen and (min-device-width: 1281px) {
+@media screen {
     body{
     background-image: url("PosterFinal.jpg");
     background-repeat: no-repeat;
@@ -13,7 +13,7 @@
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   }
 }
-@media screen and (max-device-width: 1280px) {
+@media handheld {
     body{
     background-image: url("PosterFinal.jpg");
     background-repeat: no-repeat;
@@ -97,4 +97,4 @@ span{
 .img:active{
   transform:scale(2);
   transition: transform 0.2s linear;
-}
+}}
