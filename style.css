@@ -13,18 +13,7 @@
   }
 }
 @media screen and (max-device-width: 600px) {
-  body{
-    background-image: url("PosterFinal.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 50%;
-    background-position: center center;
-    background-attachment: scroll;
-    color: white;
-    font-family: "微軟正黑體", helvetica;
-    background-color: black;
-    top : 50px;
-    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-  }
+
 }
 
 .title-img img{
