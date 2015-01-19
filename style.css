@@ -1,4 +1,4 @@
-@media screen and (min-width: 600px) {
+@media screen and (min-device-width: 600px) {
     body{
     background-image: url("PosterFinal.jpg");
     background-repeat: no-repeat;
@@ -12,11 +12,11 @@
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-device-width: 600px) {
   body{
     background-image: url("PosterFinal.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 60%;
+    background-size: 100% 50%;
     background-position: center center;
     background-attachment: scroll;
     color: white;
