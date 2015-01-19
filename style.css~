@@ -8,7 +8,7 @@
     color: white;
     font-family: "微軟正黑體", helvetica;
     background-color: black;
-    top : 50px;
+    margin-top : 250px;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   }
 }
@@ -22,7 +22,7 @@
     color: white;
     font-family: "微軟正黑體", helvetica;
     background-color: black;
-    top : 150px;
+    margin-top : 0px;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   }
 }
