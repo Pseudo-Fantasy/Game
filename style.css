@@ -76,7 +76,7 @@ span{
   font-size: 20px;
 }
 
-.img:not(active){
+.img{
   display: inline-block;
   width  : 320px;
   height : 180px;
