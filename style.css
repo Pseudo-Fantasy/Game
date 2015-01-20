@@ -1,4 +1,4 @@
-@media (man-device-width: 1281px) {
+@media (min-device-width: 1281px) {
     body{
     background-image: url("PosterFinal.jpg");
     background-repeat: no-repeat;
