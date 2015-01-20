@@ -1,4 +1,4 @@
-@media screen {
+@media (man-device-width: 1281px) {
     body{
     background-image: url("PosterFinal.jpg");
     background-repeat: no-repeat;
@@ -13,7 +13,7 @@
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   }
 }
-@media handheld {
+@media (max-device-width: 1280px) {
     body{
     background-image: url("PosterFinal.jpg");
     background-repeat: no-repeat;
