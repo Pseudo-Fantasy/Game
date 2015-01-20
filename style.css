@@ -61,8 +61,8 @@ button:hover{
 }
 
 .video{
-  height: 225px;
-  width : 400px;
+  height: 180px;
+  width : 320px;
   opacity: 0.1;
   display: inline-block;
   transition: opacity 0.3s linear;
